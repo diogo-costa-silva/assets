@@ -21,3 +21,5 @@
 - customer_acquisition_data - https://statso.io/customer-lifetime-value-analytics-case-study/
 
 - Zomato Chennai Listing 2020 - https://www.kaggle.com/datasets/phiitm/chennai-zomato-restaurants-data?resource=download
+
+- Mall Customer Segmentation Data: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/code
