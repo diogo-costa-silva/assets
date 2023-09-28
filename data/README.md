@@ -25,3 +25,5 @@
 - Mall Customer Segmentation Data: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/code
 
 - Fitabase Data: https://www.kaggle.com/datasets/arashnic/fitbit
+
+- Superstore Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
