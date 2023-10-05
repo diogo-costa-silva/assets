@@ -27,3 +27,5 @@
 - Fitabase Data: https://www.kaggle.com/datasets/arashnic/fitbit
 
 - Superstore Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
+- Airports: https://www.kaggle.com/datasets/harshalhonde/global-aviation-hub-dataset-of-airports-worldwide/data
