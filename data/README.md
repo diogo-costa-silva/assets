@@ -29,3 +29,5 @@
 - Superstore Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 - Airports: https://www.kaggle.com/datasets/harshalhonde/global-aviation-hub-dataset-of-airports-worldwide/data
+
+- Spotify 2023: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
